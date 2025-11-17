@@ -52,8 +52,10 @@ Scatter plot showing publishing times of articles.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-News-Orchestrator.git
+git clone https://github.com/sabira-max/AI-News-Orchestrator.git
 cd AI-News-Orchestrator
 pip install -r requirements.txt
 streamlit run AI_News.py
+
+
 
