@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+requests
+sentence-transformers
+transformers
+matplotlib
+scikit-learn
+python-dateutil

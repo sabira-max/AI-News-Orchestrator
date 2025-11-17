@@ -1,0 +1,28 @@
+# Python bytecode/cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+env/
+venv/
+.venv/
+.conda/
+.ipynb_checkpoints/
+
+# Streamlit secrets (VERY IMPORTANT)
+.streamlit/secrets.toml
+
+# HuggingFace cache (big files)
+.huggingface/
+.cache/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Model files (avoid uploading large models accidentally)
+*.safetensors
+*.bin
