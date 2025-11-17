@@ -57,5 +57,19 @@ cd AI-News-Orchestrator
 pip install -r requirements.txt
 streamlit run AI_News.py
 
+### Prerequisites
+
+- Python 3.9+ installed
+- A NewsAPI key (https://newsapi.org/)
+- Internet connection
+
+### Configure API key
+
+Create a file named `.env` in the project root and add:
+
+```bash
+NEWS_API_KEY=2090742904994250b1d79117251e88ab
+
+
 
 
